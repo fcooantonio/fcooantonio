@@ -12,7 +12,7 @@
 </div>
 
 ## Me encontre aqui
-<a href="https://www.linkedin.com/in/fcooantonio/">
+<a href="https://www.linkedin.com/in/fcooantonio/" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a> 
 
