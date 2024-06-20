@@ -1,4 +1,18 @@
-## Hi there 👋
+# Olá, sou Francisco Antonio 👋🤓
+
+- 📚 Atualmente busco me tornar um desenvolvedor fullstack
+- 👨🏽‍💻 Atualmente estou aprendendo Reactjs
+
+## Linguagens e Ferramentas
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+<img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+## Me encontre aqui
+<a href="https://www.linkedin.com/in/fcooantonio/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a> 
 
 <!--
 **fcooantonio/fcooantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
