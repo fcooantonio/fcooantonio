@@ -1,3 +1,16 @@
+<style>
+    .icons {
+        width: 40px; 
+        height: 40px; 
+        margin: 0; 
+        padding: 0;
+    }
+    .divs {
+        display: flex; 
+        gap: 8px
+    }
+</style>
+
 # Olá! Me chamo Francisco Antonio! 👋
 **Bem vindo(a) ao meu perfil! 🫡**
 
@@ -6,31 +19,30 @@
 - Pronomes: Ele/dele. 💬
 
 ## Tecnologias e Ferramentas 🛠️
-<div style="display: flex; gap: 4px">
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
+<div class="divs">
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
 </div>
 
 ## Estou Aprendendo 📚
-<div style="display: flex; gap: 4px">
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
-    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />       
+<div class="divs">
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
+    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />       
 </div>
 
 ## Contato 📞
-<div style="align: center;">
+<div class="divs">
     <a href="www.linkedin.com/in/fcooantonio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:paiva.fcoantonio@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ### GitHub Stats 📊
-<div>
-    <a href="https://github.com/fcooantonio">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcooantonio&layout=compact&langs_count=7&theme=merko"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fcooantonio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<div style="display: flex; justify-content: space-around">
+    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcooantonio&layout=compact&langs_count=7&theme=merko"/>
+    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=fcooantonio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
