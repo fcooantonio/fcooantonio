@@ -1,10 +1,4 @@
 <style>
-    .icons {
-        width: 40px; 
-        height: 40px; 
-        margin: 0; 
-        padding: 0;
-    }
     .divs {
         display: flex; 
         gap: 8px
@@ -20,19 +14,19 @@
 
 ## Tecnologias e Ferramentas 🛠️
 <div class="divs">
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
 </div>
 
 ## Estou Aprendendo 📚
 <div class="divs">
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
-    <img loading="lazy" class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />       
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
+    <img loading="lazy" style="width: 40px; height: 40px; margin: 0; padding: 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />       
 </div>
 
 ## Contato 📞
@@ -42,7 +36,7 @@
 </div>
 
 ### GitHub Stats 📊
-<div style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-evenly">
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcooantonio&layout=compact&langs_count=7&theme=merko"/>
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=fcooantonio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
