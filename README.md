@@ -29,7 +29,6 @@
 </div>
 
 ### GitHub Stats 📊
-<div style="display: flex; gap: 8px">
+<div align="center">
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcooantonio&layout=compact&langs_count=7&theme=merko"/>
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=fcooantonio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
